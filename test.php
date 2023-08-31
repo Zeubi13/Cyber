@@ -1,1 +1,3 @@
-<?php file_get_contents("index.php"); ?>
+<?php 
+echo "debug";
+file_get_contents("index.php"); ?>
